@@ -1,7 +1,7 @@
 {
-      date: selectedDate,
-      impiegato: employee,
-      timeStart: timeStart,
-      timeEnd: timeEnd,
+      date: '',
+      impiegato: impiegato1,
+      timeStart: '',
+      timeEnd: '',
       name: name
     }
