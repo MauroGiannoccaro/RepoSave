@@ -1,0 +1,7 @@
+{
+      date: selectedDate,
+      impiegato: employee,
+      timeStart: timeStart,
+      timeEnd: timeEnd,
+      name: name
+    }
