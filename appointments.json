@@ -1,7 +1,7 @@
 {
       date: '',
-      impiegato: impiegato1,
+      impiegato: 'impiegato1',
       timeStart: '',
       timeEnd: '',
-      name: name
+      name: 'name'
     }
